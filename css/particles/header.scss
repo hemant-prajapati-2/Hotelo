@@ -66,10 +66,12 @@
                 line-height: 20px;
                 font-family: $font-family;
                 color: $white;
-                background: $primary;
+                // background: $primary;
+                background: #000;
                 border-radius: 35px;
                 padding: 10px 20px;
-                border: 1px solid $primary;
+                // border: 1px solid $primary;
+                border: 2px solid #000;
 
                 &:hover {
                     background: transparent;
